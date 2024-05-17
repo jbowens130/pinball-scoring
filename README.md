@@ -9,4 +9,18 @@ To use this screen, there are a few things that you need to do in order for it t
 This picture shows the solder jumper on the back of the board
 ![IMG_2726](https://github.com/jbowens130/pinball-scoring/assets/158515070/776a726d-3063-467e-81fe-6541a9cb9f8f)
 
+Pin assignments: 
+3-5V: 5V
+CLK: Arduino 13
+MISO: Arduino 12
+MOSI: Arduino 11
+CS: Ardino 10
+CD: Arduino 9
+RST: Arduino 8
 
+CS,CD and RST can be changed in software, they are flexible.
+
+You will need adafruit libraries to communicate with the board, and for graphics. 
+For SPI communication to board you need the Adafruit_HX8375D library
+For graphics, you need the Adafruit_GFX library
+Both can be found on GitHub
