@@ -2,6 +2,7 @@
 
 Screen: Adafruit 2050 TFTLCD, did not use touchscreen capabilities
 Board: Arduino Uno
+Check the bottom of the Hardware and Wiring wiki page for video of working screen.
 
 To use this screen, there are a few things that you need to do in order for it to work as intended. If using SPI communication to the board, you need to solder the IM2 jumper on the back of the board, OR you need to jump the IM2 pin to the 3Vo pin. 
 *********************** DO NOT TIE IT TO 5 VOLTS!!!!!!!!!! ************************************
