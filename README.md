@@ -7,4 +7,5 @@ To use this screen, there are a few things that you need to do in order for it t
 *********************** DO NOT TIE IT TO 5 VOLTS!!!!!!!!!! ************************************
 
 This picture shows the solder jumper on the back of the board
-![IMG_2699](https://github.com/jbowens130/pinball-scoring/assets/158515070/310b0776-f7e1-4046-b2bb-84fd52bf52c7)
+![IMG_2727](https://github.com/jbowens130/pinball-scoring/assets/158515070/a5b3878d-0344-4bf4-8bd3-dc5213a8d46e)
+
