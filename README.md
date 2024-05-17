@@ -20,7 +20,7 @@ RST: Arduino 8
 
 CS,CD and RST can be changed in software, they are flexible.
 
-You will need adafruit libraries to communicate with the board, and for graphics. 
-For SPI communication to board you need the Adafruit_HX8375D library
+You will need adafruit libraries to communicate with the board, and for graphics. Check the wiki page titled "Software Considerations" for links to the needed libraries. 
+For SPI communication to board you need the Adafruit_HX8375D library 
 For graphics, you need the Adafruit_GFX library
 Both can be found on GitHub
